@@ -21,3 +21,5 @@ http://python-telegram-bot.readthedocs.io/ - awesome python wrapper for telegram
 
 https://github.com/cbsd/cbsd/ - ultimate tool to build military-grade infrastructure on top of FreeBSD
 
+#Tips
+https://tip.ysx.in/
